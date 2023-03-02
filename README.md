@@ -25,6 +25,7 @@ A quick way to view your Nifti files. It shows some metadata and renders a volum
 ![My brain in the viewer](https://raw.githubusercontent.com/anibalsolon/vscode-neuro-viewer/main/neuro-viewer-screenshot.png)
 
 *(yes, that's my head, so not worried on defacing it :)*
+  *(oh, you have a beautiful head)*
 ## Known Issues
 
 * It just renders the first volume of a fMRI.
