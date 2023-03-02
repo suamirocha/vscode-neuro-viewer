@@ -26,6 +26,7 @@ A quick way to view your Nifti files. It shows some metadata and renders a volum
 
 *(yes, that's my head, so not worried on defacing it :)*
   *(oh, you have a beautiful head)*
+    *(yeah, very much)*
 ## Known Issues
 
 * It just renders the first volume of a fMRI.
